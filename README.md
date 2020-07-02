@@ -1,2 +1,3 @@
 # Machine-Learning
 Predicting Video Memorability
+Media significance has increased over the time. This paper is going to predict the memorability of a video for a watcher. Watchers need to instinctively forecast the video memorability outcome. The present paper deals with short term and long-term video memorability of videos and tries to find the best results. Moreover, this paper finds out memorability scores for the merger of these different features. Spearman’s rank correlation coefficient is used to evaluate the model. The present paper utilizes features like Captions and HMP (Hierarchical Matching Pursuit) for training the model using deep learning model
